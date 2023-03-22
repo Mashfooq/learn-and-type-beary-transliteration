@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Beary script';
+    src: url('Beary-script.woff2') format('woff2'),
+        url('Beary-script.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
